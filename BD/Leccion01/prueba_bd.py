@@ -7,7 +7,7 @@ conexion = psycopg2.connect(
     port='5432',
     database='test_db'
 )
-
+with conexion;
 cursor = conexion.cursor()
 sentencia = 'SELECT * FROM persona'
 cursor.execute(sentencia)
