@@ -1,4 +1,0 @@
-print("*** Sistema de Reserva de Hoteles ***")
-
-cliente = input("Ingrese Nombre del Cliente")
-num_dias = int(input("Ingrese el numero"))
