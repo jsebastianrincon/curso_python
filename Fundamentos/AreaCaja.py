@@ -1,6 +1,6 @@
 #Probando clonacion repositorio python
 
-# Creacion de clase
+# Creacion de clase prueba
 
 
 class Caja:
