@@ -59,3 +59,18 @@ texto = 'Hola'
 veces = 2
 resultado = texto * veces
 print(resultado)
+
+#Ejemplo de correo
+
+correo = """
+Hola Equipo:
+
+Informo de este correo usando cadenas multiples con Python
+
+Cordialmente,
+
+Ing. Juan Sebastian Rincon
+
+"""
+
+print(correo)

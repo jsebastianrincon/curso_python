@@ -1,3 +1,6 @@
+print("**** OPERADORES ****")
+
+
 # Variables
 
 a = 3
@@ -18,6 +21,10 @@ print("El resultado de la multiplicacion es:", multi)
 # Operacion de division
 division = a / b
 print("El resultado de la division es:", division)
+
+# Operacion de division entera
+division_entera = a // b
+print("El resultado de la division entera es:", division_entera)
 
 # Modulo o residuo
 modulo = a % b
