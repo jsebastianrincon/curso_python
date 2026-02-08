@@ -30,3 +30,12 @@ if(not(vacaciones or diaDescanso)):
 
 else:
     print("Se puede salir")
+
+#Actualizacion Operadores Logicos
+
+print("*****ACTUALIZACION OPERADORES LOGICOS ****")
+print("\n")
+condicion1 = False
+condicion2 = False
+resultadoand = condicion1 and condicion2
+print(f'Resultado {condicion1} and {condicion2}: {resultadoand}')
