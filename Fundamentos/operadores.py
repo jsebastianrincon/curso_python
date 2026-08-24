@@ -33,3 +33,18 @@ print("El residuo es:", modulo)
 # Operacion de potencia
 exponente = a**b
 print("El resultado de la potencia es:", exponente)
+
+y = 21  
+y//=2  
+y**=3
+print(y)
+
+mi_lista = ["auto","moto","avion"]
+mi_lista[1] = "barco"
+print(mi_lista)
+
+x,y,z = "manzana","naranja","banana"
+print(y)
+
+mi_complejo = 4 + 7j;
+mi_flotante = float(mi_complejo)

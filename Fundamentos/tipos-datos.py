@@ -15,3 +15,6 @@ type(x)
 
 a = "Saludos"
 print(a)
+
+x = None
+print(x)
